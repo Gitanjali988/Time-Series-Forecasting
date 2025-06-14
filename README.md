@@ -22,6 +22,11 @@ To analyze seasonal and non-seasonal datasets using time series methods:
 
 ---
 
+## Visualization
+
+![image](https://github.com/user-attachments/assets/ca7c06a2-858c-476a-98e2-b34df484f09e)
+
+---
 ## 🧠 Methodology
 
 1. **Time Series Visualization**
